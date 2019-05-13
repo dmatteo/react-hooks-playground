@@ -2,6 +2,13 @@
 
 ![Screen Shot 2019-05-13 at 1 19 04 PM](https://user-images.githubusercontent.com/4091059/57651996-7d9b3500-7583-11e9-8039-894b6cf139a8.png)
 
+## Features
+
+* Count of available items slot in the header is constantly updated based on the window heigh (try resizing vertically)
+* Add Items (content is auto generated)
+* Remove Items
+* Edit Items
+
 ## Getting Started
 
 1. clone the repo
